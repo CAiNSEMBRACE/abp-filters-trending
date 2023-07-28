@@ -1,0 +1,19 @@
+[Adblock Plus 2.0]
+! Title: abp-filters-trending
+! Homepage: https://github.com/CAiNSEMBRACE/abp-filters-trending
+! Please report any unblocked adverts or problems
+! on GitHub (https://github.com/CAiNSEMBRACE/abp-filters-trending)
+! or via e-mail (clown690783525@gmail.com).
+!
+!-----------------------General advert blocking filters-----------------------!
+! bilibili.com
+bilibili.com###placeholder
+bilibili.com##.trending
+bilibili.com###reco_list
+bilibili.com##.recommend-list-v1
+bilibili.com##.pop-live-small-mode.part-undefined
+bilibili.com##.adblock-tips
+! baidu.com
+baidu.com##.s-hotsearch-title
+baidu.com##.s-hotsearch-content
+baidu.com###content_right
