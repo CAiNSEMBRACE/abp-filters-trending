@@ -6,6 +6,8 @@
 ! or via e-mail (clown690783525@gmail.com).
 !
 !-----------------------General advert blocking filters-----------------------!
+
+!------------------------General element hiding rules-------------------------!
 ! bilibili.com
 bilibili.com###placeholder
 bilibili.com##.trending
