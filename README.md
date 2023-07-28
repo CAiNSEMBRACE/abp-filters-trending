@@ -10,6 +10,9 @@
 
 将[abpfilterstrending.txt地址](https://github.com/CAiNSEMBRACE/abp-filters-trending/raw/main/abpfilterstrending.txt)添加到adblock plus插件的规则订阅中即可
 
+直接复制
+https://github.com/CAiNSEMBRACE/abp-filters-trending/raw/main/abpfilterstrending.txt
+
 ---
 
 规则仅供学习，24小时内删除。
