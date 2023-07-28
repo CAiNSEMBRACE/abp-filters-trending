@@ -22,3 +22,4 @@ bilibili.com##.adblock-tips
 baidu.com##.s-hotsearch-title
 baidu.com##.s-hotsearch-content
 baidu.com###content_right
+baijiahao.baidu.com##._2v051
