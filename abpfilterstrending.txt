@@ -14,6 +14,9 @@ bilibili.com##.trending
 bilibili.com###reco_list
 bilibili.com##.recommend-list-v1
 bilibili.com##.pop-live-small-mode.part-undefined
+t.bilibili.com##.right
+live.bilibili.com##.flip-view.p-relative.over-hidden.w-100
+live.bilibili.com###rank-list-vm
 bilibili.com##.adblock-tips
 ! baidu.com
 baidu.com##.s-hotsearch-title
