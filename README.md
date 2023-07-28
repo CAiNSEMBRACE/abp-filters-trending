@@ -8,7 +8,7 @@
 
 ## 使用方法
 
-将过滤规则文件地址添加到adblock plus插件的规则订阅中
+将[abpfilterstrending.txt地址](https://github.com/CAiNSEMBRACE/abp-filters-trending/blob/main/abpfilterstrending.txt)添加到adblock plus插件的规则订阅中即可
 
 ---
 
