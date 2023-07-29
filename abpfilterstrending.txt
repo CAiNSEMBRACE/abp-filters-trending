@@ -18,6 +18,8 @@ t.bilibili.com##.right
 live.bilibili.com##.flip-view.p-relative.over-hidden.w-100
 live.bilibili.com###rank-list-vm
 bilibili.com##.adblock-tips
+bilibili.com##.recommend-article-list
+bilibili.com##.bpx-player-ending
 ! baidu.com
 baidu.com##.s-hotsearch-title
 baidu.com##.s-hotsearch-content
