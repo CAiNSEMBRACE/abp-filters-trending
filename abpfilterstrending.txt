@@ -20,6 +20,7 @@ live.bilibili.com###rank-list-vm
 bilibili.com##.adblock-tips
 bilibili.com##.recommend-article-list
 bilibili.com##.bpx-player-ending
+bilibili.com##.recommended-swipe.grid-anchor
 ! baidu.com
 baidu.com##.s-hotsearch-title
 baidu.com##.s-hotsearch-content
